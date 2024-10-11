@@ -1,2 +1,2 @@
-# necronomimi.com_col
-old collection notepad
+# col.ooqq.me
+collection notepad
